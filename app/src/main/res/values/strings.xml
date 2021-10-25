@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="title">Egypt</string>
+    <string name="overview">OverView</string>
+    <string name="pharao">Pharaonic</string>
+    <string name="copty">Coptic</string>
+    <string name="islam">Islamic</string>
+    <string name="pharaonic">The Ancient Egyptian Monuments</string>
+    <string name="pharaonic_info">Delve in history of ancient Egyptian and keen to scout breathtaking beautiful of Luxor, enjoy the gleaming archeological sites in the Bank of the Nile River, stare at the Karnak and Luxor Temples on the East bank,then head out toward the West bank where you will be able to visit Tutankhamun tomb at Valley of the Kings, feel ravishing with the glory of Hatshepsut Temple, walkthrough Valley of the Queens and more.</string>
+    <string name="islamic">The Islamic Landmarks</string>
+    <string name="islamic_info">The history of Cairo begins, in essence, with the conquest of Egypt by Muslim Arabs in 640, under the commander \'Amr ibn al\-\'As.</string>
+    <string name="coptic">The Coptic Landmarks</string>
+    <string name="coptic_info">Egypt embraced the Holy Family “The Virgin and The Christ” when he sought refuge in Egypt to escape the oppression of the Romans. Egypt knew the arts, architecture, and other civilizational aspects characterized and influenced by the Pharaonic civilization and continued with the Greco-Roman era which spread through many Coptic and Christian monuments in Egypt.</string>
+
+    <string name="pyramids">"Giza Necropolis"</string>
+    <string name="pyramids_info">"The Giza Pyramid Complex, also called the Giza Necropolis, is the site on the Giza Plateau in Greater Cairo"</string>
+    <string name="sphinx">"Great Sphinx of Giza"</string>
+    <string name="sphinx_info">"Sphinx, is a limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human."</string>
+    <string name="valley_of_the_kings">"Valley of the Kings"</string>
+    <string name="valley_of_the_kings_info">"the Valley of the Gates of the Kings, is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC"</string>
+    <string name="abo_simbel_temples">Abu Simbel Temples</string>
+    <string name="abo_simbel_temples_info">The Abu Simbel temples are two massive rock temples at Abu Simbel, a village in Aswan Governorate, Upper Egypt, near the border with Sudan</string>
+    <string name="egyptian_museum">The Egyptian Museum</string>
+    <string name="egyptian_museum_info">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo, in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities</string>
+    <string name="luxor_temple">Luxor Temple</string>
+    <string name="luxor_temple_info">Luxor Temple is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor and was constructed approximately 1400 BCE.</string>
+    <string name="karnak">Karnak</string>
+    <string name="karnak_info">The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of decayed temples, chapels, pylons, and other buildings near Luxor, in Egypt.</string>
+    <string name="saqqara_necropolis">Saqqara Necropolis</string>
+    <string name="saqqara_necropolis_info">Saqqara, also spelled Sakkara or Saccara in English, is a vast, ancient burial ground in Egypt, serving as the necropolis for the ancient Egyptian capital, Memphis.</string>
+    <string name="colossi_of_memnon">Colossi of Memnon</string>
+    <string name="colossi_of_memnon_info">The Colossi of Memnon are two massive stone statues of the Pharaoh Amenhotep III, who reigned in Egypt during the Eighteenth Dynasty of Egypt. Since 1350 BCE</string>
+    
+    <string name="saint_catherine">Monastery of Saint Catherine</string>
+    <string name="saint_catherine_info"> officially "Sacred Monastery of the God-Trodden Mount Sinai", is an Eastern Orthodox monastery located on the Sinai Peninsula, at the mouth of a gorge at the foot of Mount Sinai, near the town of Saint Catherine, Egypt.</string>
+    <string name="hanging_church">The Hanging Church</string>
+    <string name="hanging_church_info">Saint Virgin Mary\'s Coptic Orthodox Church, also known as the Hanging Church, is one of the oldest churches in Egypt and the history of a church on this site dates to the third century. It belongs to the Coptic Orthodox Church of Alexandria.</string>
+    <string name="coptic_museum">The Coptic Museum</string>
+    <string name="coptic_museum_info">The Coptic Museum is a museum in Coptic Cairo, Egypt with the largest collection of Egyptian Christian artifacts in the world. It was founded by Marcus Simaika in 1908 to house Coptic antiquities. </string>
+    <string name="abu_serga">St Sergius and St Bacchus Church</string>
+    <string name="abu_serga_info">Saints Sergius and Bacchus Church, also known as Abu Serga, in Coptic Cairo is one of the oldest Coptic churches in Egypt, dating back to the 4th century.</string>
+
+
+    <string name="salah_castle">Salah Al-Din Castle</string>
+    <string name="salah_castle_info">The Citadel of Cairo or Citadel of Saladin is a medieval Islamic-era fortification in Cairo, Egypt, built by Salah ad-Din and further developed by subsequent Egyptian rulers.</string>
+    <string name="muhammad_ali_mosque">Mosque of Muhammad Ali</string>
+    <string name="muhammad_ali_mosque_info">The Great Mosque of Muhammad Ali Pasha or Alabaster Mosque is a mosque situated in the Citadel of Cairo in Egypt and was commissioned by Muhammad Ali Pasha between 1830 and 1848.</string>
+    <string name="ibn_tulun_mosque">Mosque of Ibn Tulun</string>
+    <string name="ibn_tulun_mosque_info">It is the oldest mosque in Egypt as well as the whole of Africa surviving in its full original form, and is the largest mosque in Cairo in terms of land area. </string>
+    <string name="azhar">Al-Azhar Mosque</string>
+    <string name="azhar_info">as al-Azhar, is an Egyptian mosque in Islamic Cairo. Al-Mu\'izz li-Din Allah of the Fatimid dynasty commissioned its construction for the newly established capital city in 970.</string>
+    <string name="wwww_google_com">wwww.google.com</string>
+
+</resources>
+
