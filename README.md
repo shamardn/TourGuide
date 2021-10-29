@@ -1,5 +1,5 @@
 # Tour Guide App
-The "Tour Guide App" is the third project of Udacity's Android Developer Nanodegree
+The "Tour Guide App" is the fifth project of Udacity's Android Developer Nanodegree
 
 ## Project Overview
 The final project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making your own multi-screen Android app to share your knowledge about a city you are very familiar with.
